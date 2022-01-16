@@ -1,4 +1,4 @@
-# GFT Start#3 Java - Primeiro-Repositório
+# GFT Start#3 Java - Primeiro Repositório
 
 Este repositório é para o bootcamp  da GFT em parceiria com a DIO.
 
