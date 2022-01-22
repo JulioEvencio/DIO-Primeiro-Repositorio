@@ -1,6 +1,6 @@
-# GFT Start#3 Java - Primeiro Repositório
+# DIO - Primeiro Repositório
 
-Este repositório é para o bootcamp  da GFT em parceiria com a DIO.
+Este repositório é para o bootcamp da DIO (Digital Innovation One).
 
 ## Objetivo
 
